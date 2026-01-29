@@ -1,0 +1,4 @@
+__pycache__/
+faces/
+attendance_log.csv
+*.pyc
